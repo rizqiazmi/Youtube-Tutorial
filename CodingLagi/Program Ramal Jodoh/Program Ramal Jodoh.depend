@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660712927 source:c:\users\rizqi\desktop\c++\codinglagi\program ramal jodoh\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+

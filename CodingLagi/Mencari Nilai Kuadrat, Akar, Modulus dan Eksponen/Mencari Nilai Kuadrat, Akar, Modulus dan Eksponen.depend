@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661078553 source:c:\users\rizqi\desktop\c++\codinglagi\mencari nilai kuadrat, akar, modulus dan eksponen\main.cpp
+	<iostream>
+	<cmath>
+

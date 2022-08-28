@@ -1,0 +1,6 @@
+
+	 Daftar Biodata Mahasiswa 
+
+ Nama    : Gozali
+ NIM     : 12412
+ Alamat  : Magetan

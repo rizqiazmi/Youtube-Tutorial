@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661129453 source:c:\users\rizqi\desktop\c++\codinglagi\menghitung hasil perkalian dengan cara penjumlahan\main.cpp
+	<iostream>
+	<math.h>
+
