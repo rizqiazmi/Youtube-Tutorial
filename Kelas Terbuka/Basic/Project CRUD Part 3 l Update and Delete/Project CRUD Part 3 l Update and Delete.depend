@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660618923 source:c:\users\rizqi\desktop\c++\kelas terbuka\basic\project crud part 3 l update and delete\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+

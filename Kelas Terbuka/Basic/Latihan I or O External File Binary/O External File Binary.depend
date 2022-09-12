@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1660439812 source:c:\users\rizqi\desktop\c++\kelas terbuka\basic\latihan i or o external file binary\baca.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1660439898 source:c:\users\rizqi\desktop\c++\kelas terbuka\basic\latihan i or o external file binary\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

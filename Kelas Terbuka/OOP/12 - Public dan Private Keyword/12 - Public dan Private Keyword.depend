@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1662713993 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\12 - public dan private keyword\mahasiswa.cpp
+	"Mahasiswa.h"
+	<iostream>
+
+1662713916 c:\users\rizqi\desktop\c++\kelas terbuka\oop\12 - public dan private keyword\mahasiswa.h
+	<iostream>
+	<string>
+

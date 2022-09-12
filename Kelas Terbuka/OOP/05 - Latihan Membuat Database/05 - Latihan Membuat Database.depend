@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662125693 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\05 - latihan membuat database\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

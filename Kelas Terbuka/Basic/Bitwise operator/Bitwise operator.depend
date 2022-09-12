@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660137781 source:c:\users\rizqi\desktop\c++\kelas terbuka\basic\bitwise operator\main.cpp
+	<iostream>
+	<bitset>
+	<string>
+

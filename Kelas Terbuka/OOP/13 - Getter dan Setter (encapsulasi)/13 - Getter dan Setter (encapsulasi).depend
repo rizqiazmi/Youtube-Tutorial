@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1662952742 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\13 - getter dan setter (encapsulasi)\main.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1662952914 c:\users\rizqi\desktop\c++\kelas terbuka\oop\13 - getter dan setter (encapsulasi)\player.h
+	<string>
+
+1662953035 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\13 - getter dan setter (encapsulasi)\player.cpp
+	<iostream>
+	<string>
+	"Player.h"
+

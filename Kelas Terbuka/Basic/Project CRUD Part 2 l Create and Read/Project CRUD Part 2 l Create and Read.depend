@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660618347 source:c:\users\rizqi\desktop\c++\kelas terbuka\basic\project crud part 2 l create and read\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+

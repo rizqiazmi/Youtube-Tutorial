@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660308758 source:c:\users\rizqi\desktop\c++\kelas terbuka\basic\membaca file ekstrenal l ifstream\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

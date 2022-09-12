@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1662955468 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\14 - latihan encapsulasi\main.cpp
+	<iostream>
+	<string>
+	"Player.h"
+	"Weapon.h"
+
+1662955317 c:\users\rizqi\desktop\c++\kelas terbuka\oop\14 - latihan encapsulasi\player.h
+	<string>
+	"Weapon.h"
+
+1662955573 c:\users\rizqi\desktop\c++\kelas terbuka\oop\14 - latihan encapsulasi\weapon.h
+	<string>
+
+1662955643 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\14 - latihan encapsulasi\weapon.cpp
+	<iostream>
+	"Weapon.h"
+	<string>
+
+1662953863 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\14 - latihan encapsulasi\player.cpp
+	<iostream>
+	"Player.h"
+

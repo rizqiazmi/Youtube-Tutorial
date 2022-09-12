@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1662715587 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\11 - multi file\main.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1662777899 c:\users\rizqi\desktop\c++\kelas terbuka\oop\11 - multi file\player.h
+	<string>
+
+1662777962 source:c:\users\rizqi\desktop\c++\kelas terbuka\oop\11 - multi file\player.cpp
+	<iostream>
+	<string>
+	"Player.h"
+

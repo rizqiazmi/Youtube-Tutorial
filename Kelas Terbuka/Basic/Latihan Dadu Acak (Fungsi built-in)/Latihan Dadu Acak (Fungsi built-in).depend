@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659529733 source:c:\users\rizqi\desktop\c++\kelas terbuka\basic\latihan dadu acak (fungsi built-in)\main.cpp
+	<iostream>
+	<cstdlib>
+

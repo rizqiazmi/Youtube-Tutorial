@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659864173 source:c:\users\rizqi\desktop\c++\kelas terbuka\basic\search array ~ std library\main.cpp
+	<iostream>
+	<algorithm>
+	<array>
+
